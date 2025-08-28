@@ -22,3 +22,10 @@ Test ini mencakup **Login → Add to Cart → Checkout Produk**.
 ---
 
 ## 📂 Struktur Project
+``` 
+selenium-mocha-chai/
+├── package.json
+├── package-lock.json
+├── login.test.json
+├── mochawesome-report/
+```
